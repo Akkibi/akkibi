@@ -4,7 +4,7 @@ I am a front-end developer who loves to design and is passionate about technolog
 
 ## Interests
 
-Apart from web development, I enjoy exploring the latest advancements in technology and staying up-to-date with the latest design and tech trends.
+Apart from web development, I enjoy exploring the latest advancements in technology 🦾 and staying up-to-date with the latest design ✏️ trends.
 
 ## Contact me
 
