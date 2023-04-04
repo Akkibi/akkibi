@@ -1,4 +1,4 @@
-# Hi there! I'm Akira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! I'm Akira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I am a front-end developer who loves to design and is passionate about technology. With a background in 3D art and UI design, I am excited to apply my skills and creativity to create stunning and responsive web experiences.
 
