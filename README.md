@@ -2,7 +2,7 @@
 
 I am a **front-end developer / creative developer** who loves to design and is passionate about technology. With a background in 3D art and UI design, I am excited to apply my skills and creativity to create stunning and responsive web experiences.
 
-You can visit my **portfolio at [Akiravalade.app/](https://akiravalade.vercel.app/)**
+You can visit my **portfolio at [akirav.art](https://akiravalade.vercel.app/)**
 
 ## Interests
 
